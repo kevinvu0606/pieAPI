@@ -20,8 +20,8 @@
     },
     {
       "id": "3",
-      "storename": "John",
-      "address": "doe",
+      "storename": "The Pie Shop by Matt Wilkinson",
+      "address": "75 Nicholson Street, Brunswick East",
       "quantity": 3,
       "price": 34,
       "storerating": 4.2,
@@ -29,8 +29,8 @@
     },
     {
       "id": "4",
-      "storename": "John",
-      "address": "doe",
+      "storename": "Princes Pies",
+      "address": "10 Howey Place, Melbourne",
       "quantity": 3,
       "price": 34,
       "storerating": 3.9,
@@ -66,17 +66,17 @@
     },
     {
       "id": "8",
-      "storename": "John",
+      "storename": "Pure Pie",
       "address": "doe",
       "quantity": 3,
       "price": 34,
       "storerating": 4.7,
-      "pieId": "1"
+      "pieId": "383 Bay St, Port Melbourne"
     },
     {
       "id": "9",
-      "storename": "John",
-      "address": "doe",
+      "storename": "Meatsmith",
+      "address": "227A Barkly Street, St Kilda",
       "quantity": 3,
       "price": 34,
       "storerating": 4.8,
@@ -84,12 +84,12 @@
     },
     {
       "id": "10",
-      "storename": "John",
+      "storename": "Tivoli Road Bakery",
       "address": "doe",
       "quantity": 3,
       "price": 34,
       "storerating": 4.5,
-      "pieId": "1"
+      "pieId": "3 Tivoli Rd, South Yarra"
     }
   ],
   "pies": [
