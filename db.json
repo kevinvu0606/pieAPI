@@ -1,0 +1,137 @@
+{
+  "stores": [
+    {
+      "id": "1",
+      "storename": "Wonderpop & Deli",
+      "address": "18 Little Lonsdale St, Melbourne",
+      "quantity": 5,
+      "price": 7.99,
+      "storerating": 4.5,
+      "pieId": "1"
+    },
+    {
+      "id": "2",
+      "storename": "Pie Thief",
+      "address": "297 Barkly Street, Footscray",
+      "quantity": 2,
+      "price": 32,
+      "storerating": 4.3,
+      "pieId": "2"
+    },
+    {
+      "id": "3",
+      "storename": "John",
+      "address": "doe",
+      "quantity": 3,
+      "price": 34,
+      "storerating": 4.2,
+      "pieId": "1"
+    },
+    {
+      "id": "4",
+      "storename": "John",
+      "address": "doe",
+      "quantity": 3,
+      "price": 34,
+      "storerating": 3.9,
+      "pieId": "1"
+    },
+    {
+      "id": "5",
+      "storename": "John",
+      "address": "doe",
+      "quantity": 3,
+      "price": 34,
+      "pie": "meatpie",
+      "storerating": 4,
+      "pieId": "1"
+    },
+    {
+      "id": "6",
+      "storename": "John",
+      "address": "doe",
+      "quantity": 3,
+      "price": 34,
+      "storerating": 3.5,
+      "pieId": "1"
+    },
+    {
+      "id": "7",
+      "storename": "John",
+      "address": "doe",
+      "quantity": 3,
+      "price": 34,
+      "storerating": 4.9,
+      "pieId": "1"
+    },
+    {
+      "id": "8",
+      "storename": "John",
+      "address": "doe",
+      "quantity": 3,
+      "price": 34,
+      "storerating": 4.7,
+      "pieId": "1"
+    },
+    {
+      "id": "9",
+      "storename": "John",
+      "address": "doe",
+      "quantity": 3,
+      "price": 34,
+      "storerating": 4.8,
+      "pieId": "1"
+    },
+    {
+      "id": "10",
+      "storename": "John",
+      "address": "doe",
+      "quantity": 3,
+      "price": 34,
+      "storerating": 4.5,
+      "pieId": "1"
+    }
+  ],
+  "pies": [
+    {
+      "id": "1",
+      "name": "Mac & Cheese Pie"
+    },
+    {
+      "id": "2",
+      "name": "Pecan Pie"
+    },
+    {
+      "id": "3",
+      "name": "Apple Pie"
+    },
+    {
+      "id": "4",
+      "name": "Pumpkin Pie"
+    },
+    {
+      "id": "5",
+      "name": "Key Lime Pie"
+    },
+    {
+      "id": "6",
+      "name": "Cherry Pie"
+    },
+    {
+      "id": "7",
+      "name": "Lemon Meringue Pie"
+    },
+    {
+      "id": "8",
+      "name": "Sugar Cream Pie"
+    },
+    {
+      "id": "9",
+      "name": "Cheesecake pie"
+    },
+    {
+      "id": "10",
+      "name": "Rhubarb Pie"
+    }
+  ]
+}
